@@ -70,11 +70,10 @@ The architecture of the system consists of the following key modules:
 
 
 ## 🖼️ Sample Output
-<img width="960" height="510" alt="image" src="https://github.com/user-attachments/assets/15ac5af5-bb19-4198-992a-927c5358b68f" />
-
 - Blue rectangles represent **Processes (P)**.  
 - Green circles represent **Resources (R)**.  
 - Arrows indicate **requests (P → R)** or **allocations (R → P)**.  
 - Red highlights indicate **deadlocked nodes**.  
 
 Example:  
+<img width="960" height="510" alt="image" src="https://github.com/user-attachments/assets/15ac5af5-bb19-4198-992a-927c5358b68f" />
